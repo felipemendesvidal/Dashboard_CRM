@@ -37,10 +37,7 @@
 }
 #nav-toggle:checked ~ .main-container header{ width: calc(100% - 70px);left: 70px;
 }
-.sidebar-menu a.active{background-color: rgb(255, 255, 255); padding-top: 1rem; padding-bottom: 1rem; color: rgb(46, 46, 46); border-radius: 30px 0px 0px 30px; box-shadow: -3px 00px 8px rgba(0, 0, 0, 0.356); transition:  0.5s;} 
-.sidebar-menu a:hover{background-color: rgb(255, 255, 255); padding-top: 1rem; padding-bottom: 1rem; color: rgb(46, 46, 46); border-radius: 30px 0px 0px 30px; box-shadow: -3px 00px 8px rgba(0, 0, 0, 0.356);transition:  0.5s;} 
-
-
+.sidebar-menu a.active{background-color: rgb(255, 255, 255); padding-top: 1rem; padding-bottom: 1rem; color: rgb(46, 46, 46); border-radius: 30px 0px 0px 30px; box-shadow: -3px 00px 8px rgba(0, 0, 0, 0.356);} 
 .footer-sidenav{background: gray; padding: 0.5rem; font-size: 0.8rem; text-align: center; font-weight: bold;}
 
 /* parte branca do lado do menu */
